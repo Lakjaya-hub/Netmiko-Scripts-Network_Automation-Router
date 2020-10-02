@@ -28,8 +28,8 @@ input
 	border: none;
 	border-bottom: 1px solid #fff;
 	font-family: 'Play', sans-serif;
-	font-size: 16px;
-	font-weight: 200px;
+	font-size: 18px;
+	font-weight: 250px;
 	padding:  10px 0;
 	transition: border 0.5s;
 	outline: none;
@@ -41,7 +41,7 @@ input[type=button]
 	width: 190px;
 	background:white;
 	color: #000;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 25px;
 	padding: 10px 0;
 	border-radius: 15px;
